@@ -1,0 +1,1 @@
+export const serverUrl ="https://projectfairserver-1ugy.onrender.com"
